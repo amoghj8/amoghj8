@@ -1,5 +1,5 @@
 - 🙋🏻‍♂️   Hey there! I’m Amogh
-- 👨🏻‍🎓   Currently, I'm pursuing Masters' degree in Computer Science at Stony Brook University
+- 👨🏻‍🎓   I'm pursuing Masters' degree in Computer Science at Stony Brook University
 - 💻   I'm interested in Distributed systems, Network Security and Cloud computing 
 - You can reach out to me on [Twitter](https://twitter.com/amoghjo8)
 - 📑   Here's my [blog](https://magnifico.herokuapp.com/) 
